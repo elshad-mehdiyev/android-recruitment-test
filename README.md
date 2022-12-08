@@ -1,3 +1,10 @@
+## Ekran görüntüləri
+#### WebSocket qoşuludur
+![connected](https://user-images.githubusercontent.com/108083618/206451872-891bd726-4f1e-46d3-9bf8-120145f6149e.jpg)
+#### İnternet əlaqəsi yoxdur. Buna görə cache edilən data göstərilir.
+![not_connected](https://user-images.githubusercontent.com/108083618/206451875-54822864-0213-4846-9cd7-9cc41cff7eb7.jpg)
+
+
 Android Recruitment test
 
 ### Tələb 1
